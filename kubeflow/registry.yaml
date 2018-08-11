@@ -58,6 +58,7 @@ libraries:
   seldon:
     version: master
     path: seldon
+<<<<<<< HEAD
   mxnet-job:
     version: master
     path: mxnet-job
@@ -70,3 +71,11 @@ libraries:
   kubebench:
     version: master
     path: kubebench
+=======
+  h2oai-h2o3:
+    version: master
+    path: h2oai
+  h2oai-driverlessai:
+    version: master
+    path: h2oai
+>>>>>>> initial commit - adding h2o components
