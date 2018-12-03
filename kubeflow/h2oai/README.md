@@ -23,7 +23,7 @@ NOTE: The deployment steps assume that you have already set up a Kubernetes clus
     ks pkg install kubeflow/core
     ks pkg install kubeflow/tf-serving
     ks pkg install kubeflow/tf-job
-    ks pkg install kubeflow/h2oai-h2o3
+    ks pkg install kubeflow/h2oai
     ```
 5. Deploy the H2O-3 Cluster to your Kubernetes cluster
     ```
