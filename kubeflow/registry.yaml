@@ -70,9 +70,9 @@ libraries:
   kubebench:
     version: master
     path: kubebench
-  h2oai-h2o3:
+  h2o3:
     version: master
     path: h2oai
-  h2oai-driverlessai:
+  driverlessai:
     version: master
     path: h2oai

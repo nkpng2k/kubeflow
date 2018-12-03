@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/kubeflow/kubeflow/h2oai"
+    "url": "https://github.com/kubeflow/kubeflow"
   },
   "bugs": {
     "url": "https://github.com/h2oai/h2o-kubeflow/issues"
